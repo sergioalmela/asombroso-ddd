@@ -58,6 +58,7 @@ Por eso es que consideramos que tiene que existir una lista curada de recursos q
 ## Projectos Ejemplo
 
 - [Proophesor-Do](https://github.com/prooph/proophessor-do) - Un ejemplo completo utilizando los componentes creados por [Prooph](http://getprooph.org/).
+- [DDD, CQRS y microservicios en Symfony](https://github.com/sergioalmela/symfony-ddd-ecommerce-microservices) - Un ejemplo listo para usar, que combina DDD y CQRS en PHP.
 
 ## Librerías y Frameworks
 
